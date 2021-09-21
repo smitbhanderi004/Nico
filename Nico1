@@ -1,26 +1,22 @@
 {
-   "Ads":[
-      {
-         "app_id":"ca-app-pub-3940256099942544~3347511711",
-         "banner_id":"b195f8dd8ded45fe847ad89ed1d016da",
-         "interstitial_id":"24534e1901884e398f1253216226017e",
-         "native_id":"11a17b188668469fb0412708c3d16813",
-         "qureka_ads":"https://831.win.qureka.com/",
-         "status":"true",
-         "splash_ads":"false"
-      },
-      {
-         "app_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "banner_id":"",
-         "interstitial_id":"",
-          "interstitial_id1":"",
-          "interstitial_id2":"",
-         "native_id":"",
-         "native_banner_id":"",
-         "rectangle_banner_id":"",
-         "status":"true",
-         "splash_ads":"false"
-         
-}
-   ]
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"https://play.google.com/store/apps/details?id=ghdsportscrickettvapps.ghdsportsfootballlivetvliveapp.livecricket.livesports.freeonline.tips",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"https://831.win.qureka.com/",
+   "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
+   "admob_showAdStatus":"0",
+   "AppID":"ca-app-pub-3940256099942544~3347511711",
+   "Admob_Banner":"",
+   "Admob_Interstitial":"",
+   "Admob_Native":"",
+   "AppOpen":"",
+   "fbad_showStatus":"1",
+   "mopub_banner":"d5966970f85749f19a538b160d96cd61",
+   "mopub_inter1":"df82a0cd85e0474cbb1d015fa8139106",
+   "mopub_inter2":"df82a0cd85e0474cbb1d015fa8139106",
+   "mopub_inter3":"df82a0cd85e0474cbb1d015fa8139106",
+   "mopub_native":"09fa82603c324e459460641c3085157b"
 }
