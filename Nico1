@@ -1,22 +1,26 @@
 {
-   "app_redirectOtherAppStatus":"0",
-   "app_newPackageName":"https://play.google.com/store/apps/details?id=ghdsportscrickettvapps.ghdsportsfootballlivetvliveapp.livecricket.livesports.freeonline.tips",
-   "app_AppOpenAdStatus":"0",
-   "app_dialogBeforeAdShow":"0",
-   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
-   "app_howShowAd":"0",
-   "qureka":"https://831.win.qureka.com/",
-   "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
-   "admob_showAdStatus":"0",
-   "AppID":"ca-app-pub-3940256099942544~334751171",
-   "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
-   "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
-   "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
-   "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "fbad_showStatus":"1",
-   "mopub_banner":"d5966970f85749f19a538b160d96cd61",
-   "mopub_inter1":"df82a0cd85e0474cbb1d015fa8139106",
-   "mopub_inter2":"df82a0cd85e0474cbb1d015fa8139106",
-   "mopub_inter3":"df82a0cd85e0474cbb1d015fa8139106",
-   "mopub_native":"09fa82603c324e459460641c3085157b"
+   "Ads":[
+      {
+         "app_id":"ca-app-pub-3940256099942544~3347511711",
+         "banner_id":"0e1b15a2d425413cb5eef8ecab152419",
+         "interstitial_id":"29f0a1de7b26457da1036f52eeb163e2",
+         "native_id":"b132608db85441228b528feb77b0578c",
+         "qureka_ads":"https://831.win.qureka.com/",
+         "status":"true",
+         "splash_ads":"false"
+      },
+      {
+         "app_id":"",
+         "banner_id":"",
+         "interstitial_id":"",
+          "interstitial_id1":"",
+          "interstitial_id2":"",
+         "native_id":"",
+         "native_banner_id":"",
+         "rectangle_banner_id":"",
+         "status":"true",
+         "splash_ads":"false"
+         
+}
+   ]
 }
